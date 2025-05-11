@@ -5,4 +5,4 @@ layout: default
 
 # Celestheme
 
-*Astronomy THEME* Very cool 👍🏻!!
+**Astronomy THEME** Very cool 👍🏻!!
