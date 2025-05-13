@@ -1,5 +1,6 @@
 title: Celestheme
 description: ""
 encoding: utf-8
-
+sass:
+  sass_dir: _sass
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
